@@ -246,9 +246,14 @@ No. This is an APIDot integration repository for calling Seedream 4.5 through AP
 - APIDot webhooks: https://apidot.ai/docs/webhooks
 - Main APIDot examples repo: https://github.com/APIDotAI/apidot-examples
 
-## Suggested GitHub topics
+## Related APIDot model API repositories
 
-seedream-4-5, seedream-4-5-api, apidot, curl, nodejs, webhook, ai-image-api, image-generation, image-editing
+More image API examples from APIDot:
 
+| Model | Repository |
+| --- | --- |
+| GPT Image 2 | [gpt-image-2-api](https://github.com/APIDotAI/gpt-image-2-api) |
+| Nano Banana 2 | [nano-banana-2-api](https://github.com/APIDotAI/nano-banana-2-api) |
+| Nano Banana Pro | [nano-banana-pro-api](https://github.com/APIDotAI/nano-banana-pro-api) |
 
 
